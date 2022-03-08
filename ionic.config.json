@@ -1,0 +1,7 @@
+{
+  "name": "figura_publica",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
