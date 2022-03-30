@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "src"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"Angular.ng-template"
+			"johnpapa.angular2",
+			"fivethree.vscode-ionic-snippets",
+			"Angular.ng-template"
+		]
+	}
+}
