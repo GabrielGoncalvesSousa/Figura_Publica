@@ -35,6 +35,13 @@
             "prefix": "app",
             "style": "camelCase"
           }
+        ],
+        "@typescript-eslint/quotes": [
+          "error",
+          "single",
+          {
+            "allowTemplateLiterals": true
+          }
         ]
       }
     },
